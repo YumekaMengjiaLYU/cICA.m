@@ -1,14 +1,14 @@
 # cICA.m
 R Package for colored ICA.
 
-### install
+### Install
 with `devtools`:
 
 ```S
 devtools:install_github('cICA.m')
 ```
 
-### use
+### Use
 There are only two functions in this package.
 
 Call `cICA_morlet` to perform colorICA Morlet algorithm on CIFTI files. 
