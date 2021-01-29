@@ -1,5 +1,5 @@
 # cICA.m
-R Package for colored independent component analysis that utilizes Morlet wavelet convolution developed by [Prof. Seonjoo Lee](https://sites.google.com/site/seonjool/).
+R Package for colored independent component analysis that utilizes Morlet wavelet convolution developed by [Prof. Seonjoo Lee](https://sites.google.com/site/seonjool/). Inverse wavelet transformation for morlet wavelet is implemented based on [this paper](https://paos.colorado.edu/research/wavelets/bams_79_01_0061.pdf).
 
 ### Install
 with `devtools`:
