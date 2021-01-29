@@ -1,5 +1,5 @@
 # cICA.m
-R Package for colored ICA.
+R Package for Colored Independent Component Analysis outlined in [this](https://www.tandfonline.com/doi/abs/10.1198/jasa.2011.tm10332) paper.
 
 ### Install
 with `devtools`:
